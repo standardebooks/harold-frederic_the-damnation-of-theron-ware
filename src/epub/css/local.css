@@ -1,2 +1,24 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+table{
+	margin: 1em auto;
+}
+
+table caption{
+	font-variant: small-caps;
+}
+
+table td{
+	padding:.5em;
+}
+
+table td:nth-child(2),
+table td:last-child{
+	text-align: right;
+}
+
+table tfoot td:nth-child(2),
+table tfoot td:last-child{
+	border-top: 1px solid;
+}
