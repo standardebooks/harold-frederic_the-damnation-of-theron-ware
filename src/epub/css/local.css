@@ -10,7 +10,7 @@ table caption{
 }
 
 table td{
-	padding:.5em;
+	padding: .5em;
 }
 
 table td:nth-child(2),
