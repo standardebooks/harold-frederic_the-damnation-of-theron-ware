@@ -52,7 +52,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/133</dc:source>
 		<dc:source>https://books.google.com/books?id=BtlnGYGTzVAC</dc:source>
-		<meta property="se:word-count">120863</meta>
+		<meta property="se:word-count">120862</meta>
 		<meta property="se:reading-ease.flesch">69.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Damnation_of_Theron_Ware</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/harold-frederic_the-damnation-of-theron-ware</meta>
